@@ -7,6 +7,8 @@
   <li>Who didn't answer the question (NaN)</li>
 </ul>
 
+<p> For the code, <Strong>CTRL+F "code.ipynb"</Strong> </p>
+
 <div style="font-size:18px; line-height:1.7; color:black;">
     <h1>Data Science, The Next Battle Ground</h1>
 </div>
