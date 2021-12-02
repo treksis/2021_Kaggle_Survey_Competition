@@ -7,6 +7,8 @@
   <li>Who didn't answer the question (NaN)</li>
 </ul>
 
+https://www.kaggle.com/howoojang/data-science-the-next-battle-ground
+
 <p> For the code, <Strong>CTRL+F "code.ipynb"</Strong> </p>
 
 <div style="font-size:18px; line-height:1.7; color:black;">
